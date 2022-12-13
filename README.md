@@ -1,4 +1,4 @@
-## 数据方舟(Data Ark) 中英文本
+## 数据方舟(Data Ark) 中/英文本
 
 `string.txt` 以字典(key: value)格式组织 .  
   
